@@ -1,3 +1,3 @@
-def greet(name){
+def call(name){
   println "Hello, ${name}"
 }
