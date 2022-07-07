@@ -1,5 +1,3 @@
-@GrabConfig(systemClassLoader=true)
-@Grab('com.oracle:ojdbc7:12.1.0.2')
 import groovy.sql.Sql
 
 def call(name){
